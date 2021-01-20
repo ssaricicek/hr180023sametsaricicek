@@ -2,6 +2,9 @@
 
 # NBADEX App
 
+![ic_launcher](https://user-images.githubusercontent.com/53614606/105173354-f234be00-5b31-11eb-84df-70bf9123300f.png)
+
+
 NBADEX, basit bir Android demo uygulamasıdır.
 
 Bu uygulamanın temel amacı, Java'da Mimari bileşenleri ve bazı kütüphaneleri kullanarak yüksek kaliteli bir Android uygulamasının nasıl oluşturulacağına dair bir örnek olmaktır.
