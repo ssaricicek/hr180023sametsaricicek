@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HR180023_Samet_Saricicek_Final</string>
+    <string name="app_info">Hoşgeldiniz.</string>
+    <string name="no_connection">İnternet Bağlantısı Bulunamadı</string>
+    <string name="connect_to_internet">Lütfen internete bağlanın.</string>
+    <string name="close_app_question">Uygulamayı kapatmak istiyor musunuz?</string>
+    <string name="exit">Çıkış</string>
+    <string name="cancel">İptal</string>
+    <string name="close">Kapat</string>
+    <string name="open_network">İnterneti Aç</string>
+    <string name="close_app">Uygulamadan Çıkış</string>
+    </resources>

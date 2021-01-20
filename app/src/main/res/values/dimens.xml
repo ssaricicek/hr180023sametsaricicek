@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size">12dp</dimen>
+    <dimen name="item_team_title_font_size_font_size">22dp</dimen>
+    <dimen name="item_team_name_detail_font_size">15dp</dimen>
+    <dimen name="item_team_name_detail_font_size_2">20dp</dimen>
+</resources>
